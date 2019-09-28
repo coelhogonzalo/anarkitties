@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  background-color: black;
+}
+div{
+  display:inline;
+  text-align:center;
+}
+img{
+  display:inline;
+  
+}
+audio{
+  float:right;
+}
+
