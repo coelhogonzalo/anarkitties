@@ -1,37 +1,6 @@
-Welcome to Glitch
-=================
+# Anarkitts
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+"Anarkitts" is a short fiction story written by Gonzalo Coelho. You can read it [here](https://docs.google.com/document/d/e/2PACX-1vTwFdwP6jHGNPQSDBFyWVdOCXGT7sKGBm9vJChFmnHpjJsQ0LySwvlZO_Of8xI8rtZ8tGmxsaadvCxH/pub)! This project combines writing, audio, historical facts and a special ingredient to make for what I hope to be an original and interesting experience.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+I love to hear from readers! If you have any feedback, suggestions, or need support, please reach out to me at coelhogonza@gmail.com
 
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
